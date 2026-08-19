@@ -1,0 +1,2 @@
+# Pan-India-Food-Outlet-Analytics-and-Intelligence-System
+An interactive Pan-India Food Outlet Analytics and Intelligence System built with Python and Streamlit. The project transforms food outlet data into meaningful insights through interactive dashboards, KPIs, filters, charts, and visualizations, enabling analysis of outlet distribution, ratings, cuisines, pricing, locations, and business trends.
